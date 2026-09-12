@@ -1,1 +1,1 @@
-# Stock-Analyzer
+# Stock-Analyzer is a stock analyzing and prediction platform
